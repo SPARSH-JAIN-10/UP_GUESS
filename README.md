@@ -19,4 +19,17 @@ Guess the Word: Ask students to guess the correct word using the jumbled letters
 This game is a lot of fun and is especially loved by young learners who enjoy showcasing their word-solving skills. Plus, it requires minimal preparation—just a way to display pictures and jumbled words.
 
 
-![image](https://github.com/SPARSH-JAIN-10/UP_GUESS/assets/92298686/e8019e15-9c10-48f5-86c4-3e881d8313d0)
+**UI DESIGN**
+
+![image](https://github.com/SPARSH-JAIN-10/UP_GUESS/assets/92298686/b07ead59-83fc-40a8-aa20-f1b1cdc48515)
+
+![image](https://github.com/SPARSH-JAIN-10/UP_GUESS/assets/92298686/ed4f3877-3e16-4687-9631-da16f8993782)
+
+![image](https://github.com/SPARSH-JAIN-10/UP_GUESS/assets/92298686/b6f6c9be-e003-461a-b46f-b4a8010263a3)
+
+![image](https://github.com/SPARSH-JAIN-10/UP_GUESS/assets/92298686/ff95fb8d-9ccf-4f47-b743-480f0b0c3942)
+
+
+
+
+
