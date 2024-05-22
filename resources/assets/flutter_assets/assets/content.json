@@ -1,0 +1,73 @@
+[
+    {
+      "id":1,
+      "images":["recycle.png", "bag.png"],
+      "answer": "recycle bag"
+
+    },
+    {
+      "id":2,
+      "images":["hot.png", "coffee.png"],
+      "answer": "hot coffee"
+
+    },
+  {
+    "id":3,
+    "images":["camera.png", "action.png"],
+    "answer": "camera action"
+
+  },
+  {
+    "id":4,
+    "images":["letter.png", "box.png"],
+    "answer": "letter box"
+
+  },
+  {
+    "id":5,
+    "images":["cookie.png", "monster.png"],
+    "answer": "cookie monster"
+
+  },
+  {
+    "id":6,
+    "images":["book.png", "pin.png"],
+    "answer": "book pin"
+
+  },
+  {
+    "id":7,
+    "images":["call.png", "money.png"],
+    "answer": "call money"
+
+  },
+  {
+    "id":8,
+    "images":["candy.png", "tree.png"],
+    "answer": "candy tree"
+
+  },
+  {
+    "id":9,
+    "images":["Queen.png", "Cloths.png"],
+    "answer": "queen dress"
+
+  },
+  {
+    "id":10,
+    "images":["party.png", "house.png"],
+    "answer": "party house"
+
+  },
+  {
+    "id":11,
+    "images":["no.png", "smoking.png"],
+    "answer": "no smoking"
+
+  },
+  {
+    "id":12,
+    "images":["Boots.png", "Thumbs.png"],
+    "answer": "boot up"
+  }
+]
