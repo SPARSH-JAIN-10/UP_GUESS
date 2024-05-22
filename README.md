@@ -13,7 +13,9 @@ Up-guess is an exciting and educational activity perfect for warm-ups, fillers, 
 **How to Play:**
 
 Show a Picture: Display a picture.
+
 Jumble the Word: Present the word that describes the picture in a jumbled format.
+
 Guess the Word: Ask students to guess the correct word using the jumbled letters.
 
 This game is a lot of fun and is especially loved by young learners who enjoy showcasing their word-solving skills. Plus, it requires minimal preparation—just a way to display pictures and jumbled words.
